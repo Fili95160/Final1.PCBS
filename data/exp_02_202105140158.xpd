@@ -1,0 +1,38 @@
+#Expyriment 0.10.0 (Python 3.7.5), .xpd-file, coding: UTF-8
+#date: Fri May 14 2021 01:58:06
+#--EXPERIMENT INFO
+#e mainfile: exp.py
+#e sha1: 39e1e4
+#e modules: 
+#e Experiment: Side Detection
+#e no between subject factors
+#e Block 0: red
+#e     block factors: 
+#e     n trials: 5
+#e     trial factors: 
+#e Block 1: blue
+#e     block factors: 
+#e     n trials: 5
+#e     trial factors: 
+#e Block 2: random
+#e     block factors: 
+#e     n trials: 5
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 2
+subject_id,block,key,time
+2,red,32,383
+2,red,32,340
+2,red,32,266
+2,red,32,320
+2,red,32,246
+2,blue,32,350
+2,blue,32,199
+2,blue,32,236
+2,blue,32,297
+2,blue,32,245
+2,random,32,374
+2,random,32,211
+2,random,32,275
+2,random,32,272
+2,random,32,234
